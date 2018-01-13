@@ -37,7 +37,7 @@ html,body {
 	width: 100px;
 	height: 100px;
 	box-sizing: border-box;
-	border: 1px solid #eee;
+	border: 1px solid #FF0000;
 	position: absolute;
 	background: red;
 	backface-visibility: hidden;
